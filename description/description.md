@@ -48,7 +48,7 @@ The operator can immediately see:
 
 Each production area is selectable and opens its own detailed view.
 
-![Site Overview](images/screenshot1.png)
+![Site Overview](images/Screenshot1.png)
 
 ### Zone Overview
 
