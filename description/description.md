@@ -185,8 +185,6 @@ This can include:
 
 ## Need a Similar HMI for Your Product?
 
-Discuss your project with Elecrow.
-
 We can customize the hardware and software for your application.
 
 **[Discuss Your Project](mailto:hi@grovety.com)**
