@@ -125,7 +125,7 @@ This is one of the key parts of the prototype: it demonstrates how LoRaWAN telem
 
 Download the firmware, flash your CrowPanel, and run the demo:
 
-**[Download CrowPanel_P4_flasher.zip](https://github.com/Grovety/LoRaWAN-Industrial/blob/main/CrowPanel_P4_flasher.zip)**
+**[Download CrowPanel_P4_flasher.zip](https://github.com/Grovety/LoRaWAN-Industrial/raw/refs/heads/main/CrowPanel_P4_flasher.zip)**
 
 After startup, a short presentation is shown first, then the HMI opens with a running simulation of a beverage production and bottling facility with 60 LoRaWAN devices across 6 interconnected production zones.
 
@@ -141,7 +141,7 @@ The solution can be adapted to:
 - your data and control commands;
 - UI and branding;
 - alarms and operating scenarios;
-- OPC UA and other required integrations;
+- LoRaWAN gateways, backends, OPC UA and other required integrations;
 - CrowPanel hardware configuration.
 
 ### First Step: See the Demo in Action
